@@ -6,13 +6,13 @@ v2ray官方内核本身就可以用命令来使用，但是小白我是肯定需
 
 然后找到了qv2ray，看起来貌似还不错。
 
-’项目地址：https://qv2ray.net/‘
+?> 项目地址：https://qv2ray.net/
 
 使用方法很简单，只需要安装好v2ray核心之后，在设置里面将核心目录定向到你解压的v2ray核心文件夹里面就行了。
 
-‘v2ray核心项目地址：https://github.com/v2fly/v2ray-core/releases’
+?> v2ray核心项目地址：https://github.com/v2fly/v2ray-core/releases
 
-需要使用时直接运行appimage即可。
+需要使用时直接运行**appimage**即可。
 
 不用代码，就这么简单～
 
