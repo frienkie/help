@@ -3,4 +3,4 @@
   * [deepin以及所有linux系统使用v2ray](desgin-pattern/qv2ray.md)
   * [在chromeos中使用代理服务器](desgin-pattern/kitsunebi.md)
   * [如何正确补票你喜欢的gal作品](desgin-pattern/buy.md)
-  * [关于dmm今年上线的galgame浏览器版本的详细介绍](desgin-pattern/galb)
+  * [关于dmm今年上线的galgame浏览器版本的详细介绍](desgin-pattern/galb.md)
