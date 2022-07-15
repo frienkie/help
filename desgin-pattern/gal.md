@@ -1,18 +1,18 @@
 由于blog看起来不太好找，因此集中在此处提供汉化的下载
 
 #### 1.治愈男性的机器人
-?> 官网翻译：http://frienkie.xyz/yorunohitsuji/
+?> 官网翻译：https://frienkie.github.io/yorunohitsuji/
 
-更多信息请看：http://frienkie.xyz/2021/06/04/pageshow/
+更多信息请看：https://frienkie.eu.org/posts/499499716/
 
-初始发布页及下载地址：http://frienkie.xyz/2020/04/23/view2/
+初始发布页及下载地址：https://frienkie.eu.org/posts/1178198605/
 
 ?> 下载地址：[onedrive](https://whuteducn-my.sharepoint.com/personal/fengxiaoge9_whut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffengxiaoge9%5Fwhut%5Fedu%5Fcn%2FDocuments%2F%E8%B5%84%E6%BA%90%2F1%2E03%2Erar&parent=%2Fpersonal%2Ffengxiaoge9%5Fwhut%5Fedu%5Fcn%2FDocuments%2F%E8%B5%84%E6%BA%90&originalPath=aHR0cHM6Ly93aHV0ZWR1Y24tbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvZmVuZ3hpYW9nZTlfd2h1dF9lZHVfY24vRVJxV3N6Z1NGcVZPdERnbEZYZjRpcU1CRUJrcU5CWFNNX2d3ZktnVnM3LXBrUT9ydGltZT1Fd2xST3dRNzJVZw)
 #### 2.女朋友，天真的她
 
 ~~官网翻译暂无~~
 
-初始发布页及下载地址：http://frienkie.xyz/2020/06/01/game/
+初始发布页及下载地址：https://frienkie.eu.org/posts/1864011137/
 
 ?> 下载地址：[onedrive](https://whuteducn-my.sharepoint.com/personal/fengxiaoge9_whut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffengxiaoge9%5Fwhut%5Fedu%5Fcn%2FDocuments%2F1%2E03%2Erar&parent=%2Fpersonal%2Ffengxiaoge9%5Fwhut%5Fedu%5Fcn%2FDocuments&originalPath=aHR0cHM6Ly93aHV0ZWR1Y24tbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvZmVuZ3hpYW9nZTlfd2h1dF9lZHVfY24vRWRoSnEyeUJ2eFpKdGNlb3Jxdy1pOXNCbWZrekxwMGdoOHVWbFdlSWVoWnVXZz9ydGltZT01QzJZMUFRNzJVZw)
 #### 其他信息
