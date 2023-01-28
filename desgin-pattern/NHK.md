@@ -8,3 +8,7 @@
 <img src="https://pocket0.oss-cn-hangzhou.aliyuncs.com/frienkie_picture-master/NHK2.png" width="240">
 
 ?> chapter 2:https://frienkie.eu.org/posts/1940645109/
+
+<img src="https://d2so3kg3ye9d14.cloudfront.net/nhk3" width=240 />
+
+?> chapter 3:https://frienkie.eu.org/posts/78435427/
