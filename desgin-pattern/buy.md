@@ -50,7 +50,7 @@ galgame总地来说是一个特定时期的产物，而且因为种种原因很�
 目前仅支持paypal和信用卡。其中paypal是通过购买点数支付，但是可以自定购买数额，和直接支付没有太大区别。
 ## 网址：https://dlsoft.dmm.co.jp/
 ## 3.Gyutto
-游戏、OVA动画、电子书、写真集专卖网站。市场份额不大不小，但是仅支持信用卡和比特币，较为不方便。
+游戏、OVA动画、电子书、写真集专卖网站。市场份额不大不小，但是仅支持信用卡和bitcash，较为不方便。
 ![捕获2.PNG](https://i.loli.net/2020/06/15/fHqyDbCXYhdONan.png)
 ## 网址：http://gyutto.jp/
 ## 4.Digiket
@@ -67,7 +67,7 @@ galgame总地来说是一个特定时期的产物，而且因为种种原因很�
 它甚至支持**微信支付**你知道吗！
 微信支付啊啊啊啊啊啊啊啊啊啊啊啊！
 
-同时也支持比特币支付。
+同时也支持bitcash支付。
 
 ![捕获3.PNG](https://i.loli.net/2020/06/15/f8U4RQKVxX9hj7L.png)
 ## 网址：https://www.digiket.com/
